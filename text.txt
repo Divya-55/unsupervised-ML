@@ -1,0 +1,26 @@
+so i was revising unsupervised ML
+but i wrote notes when my sir was saying
+
+and now iam irritated with seeing my notes
+
+i have to preprre for interview and don't know what are importatn points and what not 
+and when i read the notes
+
+it is not clearly structure like
+
+clustering:
+clustering means
+
+like that
+
+and i want you to help me with that
+
+but you have to stick only with my notes, i donlt want to get overwhelmed with the information, iam already tired
+
+please help me structure
+
+and remerber exact points for interview
+
+i will share you github link there i uploaded screen shots in read me
+
+https://github.com/Divya-55/unsupervised-ML/tree/main
